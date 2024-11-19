@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  /* pdf styling */
+@media print {
+  .body-spot-viewer {
+    display: none !important;
+  }
+
+  .body-spot-viewer-print {
+    display: block !important;
+  }
+}
