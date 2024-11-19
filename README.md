@@ -13,7 +13,7 @@ Prerequisites:
 ### Clone the repository:
 
 ```sh
-git clone https://peke.plab.fi/frostbit-web/tunne-app-frontend.git
+git clone https://github.com/ppsimonta/tunne-app-frontend.git
 cd tunne-app-frontend
 ```
 
