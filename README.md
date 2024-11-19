@@ -1,6 +1,6 @@
 # Tunne-app web front-end
 
-React front-end for use with the [Tunne-app backend](https://peke.plab.fi/frostbit-web/tunne-app-backend).
+React front-end for use with the [Tunne-app backend](https://github.com/ppsimonta/tunne-app-backend).
 
 ## Installation
 
